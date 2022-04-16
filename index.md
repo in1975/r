@@ -1,3 +1,3 @@
 ---
-redirect_to: https://github.com/parkerbxyz/redirect-github-pages
+redirect_to: https://in1975.github.io/api/apps.json
 ---

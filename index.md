@@ -1,3 +1,3 @@
 ---
-redirect_to: https://in1975.github.io/api/apps.json
+redirect_to: http://n97728z9.beget.tech/
 ---

@@ -1,3 +1,3 @@
 ---
-redirect_to: http://n97728z9.beget.tech/
+redirect_to: https://www.pspx.ru/forum/bgtoolset/index.php
 ---
